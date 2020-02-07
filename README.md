@@ -4,10 +4,8 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/The-Coding-Cadets/btansy-component
+  - https://github.com/The-Coding-Cadets/andrewsong-component
 
 ## Table of Contents
 
