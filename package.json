@@ -9,8 +9,6 @@
     "cors": "^2.8.5",
     "express": "^4.15.0",
     "nodemon": "^1.19.2",
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1",
     "serialize-javascript": ">=2.1.1"
   },
   "devDependencies": {},
